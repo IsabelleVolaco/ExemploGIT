@@ -1,0 +1,15 @@
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\bin\Debug\net6.0\Loja_POO.exe
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\bin\Debug\net6.0\Loja_POO.deps.json
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\bin\Debug\net6.0\Loja_POO.runtimeconfig.json
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\bin\Debug\net6.0\Loja_POO.dll
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\bin\Debug\net6.0\Loja_POO.pdb
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.csproj.AssemblyReference.cache
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.AssemblyInfoInputs.cache
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.AssemblyInfo.cs
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.dll
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\refint\Loja_POO.dll
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.pdb
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\Loja_POO.genruntimeconfig.cache
+C:\Users\isabelle.volaco\OneDrive - SENAC-SC\Documentos\Exercícios\Loja_POO\Loja_POO\obj\Debug\net6.0\ref\Loja_POO.dll
