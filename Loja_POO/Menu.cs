@@ -25,7 +25,7 @@ namespace Loja_POO
         static string IntroMenu()  
         {
             
-            return "q";
+            return "oi";
         }
         public string LogIn(string user, int password) //Entrar na conta
         {
